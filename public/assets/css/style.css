@@ -1,0 +1,63 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  list-style-type: none;
+  text-align: center;
+}
+
+.label {
+  font-weight: bold;
+  text-align: center;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+img{
+  
+  text-align: center;
+  display: inline-block;
+}
+
+.first{
+  font-size:20px;
+  background-color:white;
+  width:600px;
+  margin: 0 auto;
+}
+
+.second{
+  font-size:20px;
+  background-color:white;
+  width:400px;
+  margin: 0 auto;
+}
+
+.button{
+  text-align: center;
+}
+button{
+  font-size:16px;
+}
+
+.burgerDevoured{
+  padding:6px;
+}
+
