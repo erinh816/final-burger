@@ -38,16 +38,18 @@ img{
 
 .first{
   font-size:20px;
-  background-color:white;
+  /* background-color:white; */
   width:600px;
   margin: 0 auto;
+  background-color:transparent;
 }
 
 .second{
   font-size:20px;
-  background-color:white;
+  /* background-color:white; */
   width:400px;
   margin: 0 auto;
+  background-color:transparent;
 }
 
 .button{
